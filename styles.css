@@ -106,7 +106,7 @@ hr {
     transition: 0.3s;
   }
 }
-@media (max-width: 1040px) {
+@media (max-width: 1080px) {
   .about-us {
     grid-template-columns: 1fr;
   }
